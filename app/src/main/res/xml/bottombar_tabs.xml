@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tabs xmlns:android="http://schemas.android.com/apk/res/android">
+    <tab
+        id="@+id/tab_favorites"
+        icon="@mipmap/ic_favorites"
+        title="Favorites"
+        barColorWhenSelected="#5D4037" />
+    <tab
+        id="@+id/tab_nearby"
+        icon="@mipmap/ic_nearby"
+        title="Nearby"
+        barColorWhenSelected="#7B1FA2" />
+    <tab
+        id="@+id/tab_friends"
+        icon="@mipmap/ic_friends"
+        title="Friends"
+        barColorWhenSelected="#FF5252" />
+</tabs>
