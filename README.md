@@ -2,6 +2,8 @@
 ---
 开源地址：[https://github.com/roughike/BottomBar](https://github.com/roughike/BottomBar)
 
+ PS：如果觉得文章太长，你也可观看该课程的[视频](https://www.boxuegu.com/web/html/video.html?courseId=172&sectionId=8a2c9bed5a3a4c7e015a3bbffc6107ed&chapterId=8a2c9bed5a3a4c7e015a3ab4a8fc01ba&vId=8a2c9bed5a3a4c7e015a3ad7ae01029d&videoId=AE69E91CC05315089C33DC5901307461)，亲，里面还有高清，无码的福利喔
+
 
 # 运行效果
 ![](shifting-demo.gif)
